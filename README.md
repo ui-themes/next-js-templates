@@ -91,5 +91,9 @@ Fully Coded Components Notus NextJS is built with over frontend 100 individual c
 
 <br />
 
+![Next.js Template - Notus, crafted with Tailwind CSS (Free Product).](https://raw.githubusercontent.com/ui-themes/next-js-templates/main/media/next-js-template-notus-tailwind-css.png)
+
+<br />
+
 ---
 [Next.js Templates](https://blog.appseed.us/next-js-templates-curated-list/) - content provided by [AppSeed](https://appseed.us/)
