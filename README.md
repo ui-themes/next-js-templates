@@ -9,9 +9,12 @@
 - (Free) [NextJS Argon Dashboard](http://bit.ly/3mkzRKu) - product page
 - (Free) [Notus NextJS](http://bit.ly/2Lyr9vn) - product page
 
-- (PRO) [NextJS Material Kit PRO](http://bit.ly/3nmCSeu) - product page
-- (PRO) [NextJS Argon Dashboard PRO](http://bit.ly/2LwP7Hj) - product page
-- (PRO) [NextJS Material Dashboard PRO](http://bit.ly/2INGVl0) - product page
+
+<br />
+
+- (PRO) **[NextJS Material Kit PRO](http://bit.ly/3nmCSeu)** - product page
+- (PRO) **[NextJS Argon Dashboard PRO](http://bit.ly/2LwP7Hj)** - product page
+- (PRO) **[NextJS Material Dashboard PRO](http://bit.ly/2INGVl0)** - product page
 
 <br />
 
@@ -55,7 +58,7 @@ NextJS Material Dashboard is a free Material-UI, NextJS and React Admin with a f
 <br />
 
 - [NextJS Material Dashboard](http://bit.ly/2Ko0Mb8) - product page
-- [NextJS Material Dashboard PRO](http://bit.ly/2INGVl0) - premium version
+- **[NextJS Material Dashboard PRO](http://bit.ly/2INGVl0) - premium version**
 
 <br />
 
@@ -70,7 +73,7 @@ NextJS Argon Dashboard is built with over 100 individual components, giving you 
 <br />
 
 - [NextJS Argon Dashboard](https://bit.ly/3mkzRKu) - product page
-- [NextJS Argon Dashboard PRO](http://bit.ly/2LwP7Hj) - premium version
+- **[NextJS Argon Dashboard PRO](http://bit.ly/2LwP7Hj) - premium version**
 
 <br />
 
@@ -87,7 +90,7 @@ Fully Coded Components Notus NextJS is built with over frontend 100 individual c
 <br />
 
 - [Notus NextJS](https://bit.ly/2Lyr9vn) - product page
-- More [NextJS Templates](https://bit.ly/3noTq5Q) - provided by Creative-Tim
+- More **[NextJS Templates](https://bit.ly/3noTq5Q)** - provided by Creative-Tim
 
 <br />
 
