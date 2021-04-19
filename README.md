@@ -1,6 +1,6 @@
-# [Next.js Templates](https://blog.appseed.us/next-js-templates-curated-list/) - A curated list
+# Next.js Templates
 
-> A curated list with **NextJS Templates** - a popular framework built on top of React. 
+This README presents a curated list with [Next.js Templates](https://blog.appseed.us/next-js-templates-curated-list/), the popular React Framework used to build blazing fast web apps and static sites. For newcomers, Next.js is a complete full-stack framework built on top of React.js useful to build static sites, APIs, and even full-stack applications.   A curated list with **NextJS Templates** - a popular framework built on top of React. 
 
 <br />
 
@@ -38,6 +38,21 @@ For more information feel free to access the official website:
 
 <br />
 
+## [NextJS Argon Dashboard](https://bit.ly/3mkzRKu)
+
+NextJS Argon Dashboard is built with over 100 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files.
+
+<br />
+
+- [NextJS Argon Dashboard](https://bit.ly/3mkzRKu) - product page
+- **[NextJS Argon Dashboard PRO](http://bit.ly/2LwP7Hj) - premium version**
+
+<br />
+
+![Next.js Template - NextJS Material Dashboard (Free Product).](https://raw.githubusercontent.com/ui-themes/next-js-templates/main/media/next-js-template-argon-dashboard.png)
+
+<br />
+
 ## [NextJS Material Kit](http://bit.ly/37l2piJ)
 
 NextJS Material Kit is a Free Material Design Kit made for NextJS, React and Material-UI. NextJS Material Kit is built with over 100 individual frontend elements, giving you the freedom of choosing and combining. All components can take variations in colour, that you can easily modify using SASS and JSS (inside JS files) files and classes.
@@ -63,21 +78,6 @@ NextJS Material Dashboard is a free Material-UI, NextJS and React Admin with a f
 <br />
 
 ![Next.js Template - NextJS Material Dashboard (Free Product).](https://raw.githubusercontent.com/ui-themes/next-js-templates/main/media/next-js-template-material-dashboard.png)
-
-<br />
-
-## [NextJS Argon Dashboard](https://bit.ly/3mkzRKu)
-
-NextJS Argon Dashboard is built with over 100 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files.
-
-<br />
-
-- [NextJS Argon Dashboard](https://bit.ly/3mkzRKu) - product page
-- **[NextJS Argon Dashboard PRO](http://bit.ly/2LwP7Hj) - premium version**
-
-<br />
-
-![Next.js Template - NextJS Material Dashboard (Free Product).](https://raw.githubusercontent.com/ui-themes/next-js-templates/main/media/next-js-template-argon-dashboard.png)
 
 <br />
 
