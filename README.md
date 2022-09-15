@@ -30,6 +30,19 @@ For more information feel free to access the official website:
 
 <br />
 
+## ✨ [NextJS Template - Material Kit](https://github.com/app-generator/nextjs-material-kit)
+
+NextJS Material Kit is a Free Material Design Kit made for NextJS, React and Material-UI. NextJS Material Kit is built with over 100 individual frontend elements, giving you the freedom of choosing and combining. 
+
+> **Features**: `TypeScript`, `Up-to-date` modules, `Deploy` buttons for `Netlify` and `Vercel`
+
+- 👉 [NextJS Material Kit](https://nextjs-material-kit.appseed-srv1.com/) - `LIVE demo`
+- 👉 [NextJS Material Kit](https://github.com/app-generator/nextjs-material-kit) - `source code`
+
+![Next.js Template - Material Kit React (Free Product).](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u04lxrx85wbr9y2xk9kv.png)
+
+<br />
+
 ## ✨ [NextJS Material Dashboard](http://bit.ly/2Ko0Mb8)
 
 NextJS Material Dashboard is a free Material-UI, NextJS and React Admin with a fresh, new design inspired by Google's Material Design. We are very excited to introduce our take on the material concepts through an easy to use and beautiful set of components. NextJS Material Dashboard was built over the popular Material-UI, NextJS and React frameworks.
@@ -42,19 +55,6 @@ NextJS Material Dashboard is a free Material-UI, NextJS and React Admin with a f
 <br />
 
 ![Next.js Template - NextJS Material Dashboard (Free Product).](https://raw.githubusercontent.com/ui-themes/next-js-templates/main/media/next-js-template-material-dashboard.png)
-
-<br />
-
-## ✨ [NextJS Template - Material Kit](https://github.com/app-generator/nextjs-material-kit)
-
-NextJS Material Kit is a Free Material Design Kit made for NextJS, React and Material-UI. NextJS Material Kit is built with over 100 individual frontend elements, giving you the freedom of choosing and combining. 
-
-> **Features**: `TypeScript`, `Up-to-date` modules, `Deploy` buttons for `Netlify` and `Vercel`
-
-- 👉 [NextJS Material Kit](https://nextjs-material-kit.appseed-srv1.com/) - `LIVE demo`
-- 👉 [NextJS Material Kit](https://github.com/app-generator/nextjs-material-kit) - `source code`
-
-![Next.js Template - Material Kit React (Free Product).](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u04lxrx85wbr9y2xk9kv.png)
 
 <br />
 
