@@ -4,23 +4,13 @@ This README presents a curated list with [Next.js Templates](https://blog.appsee
 
 <br />
 
-- (Free) [NextJS Material Kit](http://bit.ly/37l2piJ) - product page
+- (Free) [NextJS Material Kit](https://github.com/app-generator/nextjs-material-kit) - source code
 - (Free) [NextJS Material Dashboard](http://bit.ly/2Ko0Mb8) - product page
 - (Free) [NextJS Argon Dashboard](http://bit.ly/3mkzRKu) - product page
 - (Free) [Notus NextJS](http://bit.ly/2Lyr9vn) - product page
 - [NextJS Material Kit PRO](http://bit.ly/3nmCSeu) - product page
 - [NextJS Argon Dashboard PRO](http://bit.ly/2LwP7Hj) - product page
 - [NextJS Material Dashboard PRO](http://bit.ly/2INGVl0) - product page
-
-<br />
-
-#### PROMO: [Ultimate React Bundle - 90%OFF](https://bit.ly/3dEYrn3)
-
-The React Full Stack Bundle features 17 React, React Native and NextJS Premium products that will help you develop faster & easier: 213 Example Pages, 8240 Handcrafted Elements.
-
-<br />
-
-![Ultimate React Bundle - Creative-Tim.](https://user-images.githubusercontent.com/66874646/115964578-d9231b00-a52d-11eb-9ff5-4e173b11ffcf.png)
 
 <br />
 
@@ -37,6 +27,34 @@ For more information feel free to access the official website:
 
 - [NextJS](https://nextjs.org/) - official website
 - [NextJS Documentation](https://nextjs.org/docs/getting-started)
+
+<br />
+
+## [NextJS Material Dashboard](http://bit.ly/2Ko0Mb8)
+
+NextJS Material Dashboard is a free Material-UI, NextJS and React Admin with a fresh, new design inspired by Google's Material Design. We are very excited to introduce our take on the material concepts through an easy to use and beautiful set of components. NextJS Material Dashboard was built over the popular Material-UI, NextJS and React frameworks.
+
+<br />
+
+- [NextJS Material Dashboard](http://bit.ly/2Ko0Mb8) - product page
+- **[NextJS Material Dashboard PRO](http://bit.ly/2INGVl0) - premium version**
+
+<br />
+
+![Next.js Template - NextJS Material Dashboard (Free Product).](https://raw.githubusercontent.com/ui-themes/next-js-templates/main/media/next-js-template-material-dashboard.png)
+
+<br />
+
+## ✨ [NextJS Template - Material Kit](https://github.com/app-generator/nextjs-material-kit)
+
+NextJS Material Kit is a Free Material Design Kit made for NextJS, React and Material-UI. NextJS Material Kit is built with over 100 individual frontend elements, giving you the freedom of choosing and combining. 
+
+> **Features**: `TypeScript`, `Up-to-date` modules, `Deploy` buttons for `Netlify` and `Vercel`
+
+- 👉 [NextJS Material Kit](https://nextjs-material-kit.appseed-srv1.com/) - `LIVE demo`
+- 👉 [NextJS Material Kit](https://github.com/app-generator/nextjs-material-kit) - `source code`
+
+![Next.js Template - Material Kit React (Free Product).](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u04lxrx85wbr9y2xk9kv.png)
 
 <br />
 
@@ -69,34 +87,6 @@ NextJS Argon Dashboard is built with over 100 individual components, giving you 
 <br />
 
 ![Next.js Template - NextJS Material Dashboard (Free Product).](https://raw.githubusercontent.com/ui-themes/next-js-templates/main/media/next-js-template-argon-dashboard.png)
-
-<br />
-
-## [NextJS Material Kit](http://bit.ly/37l2piJ)
-
-NextJS Material Kit is a Free Material Design Kit made for NextJS, React and Material-UI. NextJS Material Kit is built with over 100 individual frontend elements, giving you the freedom of choosing and combining. All components can take variations in colour, that you can easily modify using SASS and JSS (inside JS files) files and classes.
-
-- [NextJS Material Kit](http://bit.ly/37l2piJ) - product page
-- **[NextJS Material Kit PRO](http://bit.ly/3nmCSeu) - premium version**
-
-<br />
-
-![Next.js Template - Material Kit React (Free Product).](https://raw.githubusercontent.com/ui-themes/next-js-templates/main/media/next-js-template-material-kit.png)
-
-<br />
-
-## [NextJS Material Dashboard](http://bit.ly/2Ko0Mb8)
-
-NextJS Material Dashboard is a free Material-UI, NextJS and React Admin with a fresh, new design inspired by Google's Material Design. We are very excited to introduce our take on the material concepts through an easy to use and beautiful set of components. NextJS Material Dashboard was built over the popular Material-UI, NextJS and React frameworks.
-
-<br />
-
-- [NextJS Material Dashboard](http://bit.ly/2Ko0Mb8) - product page
-- **[NextJS Material Dashboard PRO](http://bit.ly/2INGVl0) - premium version**
-
-<br />
-
-![Next.js Template - NextJS Material Dashboard (Free Product).](https://raw.githubusercontent.com/ui-themes/next-js-templates/main/media/next-js-template-material-dashboard.png)
 
 <br />
 
