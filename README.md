@@ -4,16 +4,6 @@ This README presents a curated list with [Next.js Templates](https://blog.appsee
 
 <br />
 
-- `Free` [NextJS Material Kit](https://github.com/app-generator/nextjs-material-kit) - source code
-- `Free` [NextJS Material Dashboard](http://bit.ly/2Ko0Mb8) - product page
-- `Free` [NextJS Argon Dashboard](http://bit.ly/3mkzRKu) - product page
-- `Free` [Notus NextJS](http://bit.ly/2Lyr9vn) - product page
-- [NextJS Material Kit PRO](http://bit.ly/3nmCSeu) - product page
-- [NextJS Argon Dashboard PRO](http://bit.ly/2LwP7Hj) - product page
-- [NextJS Material Dashboard PRO](http://bit.ly/2INGVl0) - product page
-
-<br />
-
 ## **What is NextJS**
 
 NextJS comes with an impressive set of features, almost ZERO configuration.  A few reasons to use NextJS ar at least play a bit with this framework:
