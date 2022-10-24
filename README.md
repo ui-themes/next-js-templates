@@ -55,6 +55,17 @@ Fully Coded Components Notus NextJS is built with over frontend 100 individual c
 
 <br />
 
+## ✨ [NextJS Template - Horizon](https://horizon-ui.com/horizon-ui-chakra-nextjs)
+
+This product comes with a nice & modern design crafted in React & NextJS on top of Chakra framework. If you want to get inspiration or just show something directly to your clients, you can jump start your development with our pre-built example pages. You will be able to quickly set up the basic structure for your web project. 
+
+- 👉 [NextJS Template - Horizon](https://horizon-ui.com/horizon-ui-chakra-nextjs) - `LIVE demo`
+- 👉 [NextJS Material Kit](https://github.com/horizon-ui/horizon-ui-chakra-nextjs) - `source code`
+
+![NextJS Template - Horizon (open-source starter).](https://user-images.githubusercontent.com/66874646/197583247-6ec62f30-ff34-49cb-8c5c-6f1895d49d7d.png)
+
+<br />
+
 ## ✨ [NextJS Template - Material Kit](https://bit.ly/37l2piJ)
 
 NextJS Material Kit is a Free Material Design Kit made for NextJS, React and Material-UI. NextJS Material Kit is built with over 100 individual frontend elements, giving you the freedom of choosing and combining. 
