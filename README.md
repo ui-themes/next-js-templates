@@ -2,7 +2,15 @@
 
 This README presents a curated list with [Next.js Templates](https://blog.appseed.us/next-js-templates-curated-list/), the popular React Framework used to build blazing fast web apps and static sites. For newcomers, Next.js is a complete full-stack framework built on top of React.js useful to build static sites, APIs, and even full-stack applications.   A curated list with **NextJS Templates** - a popular framework built on top of React. 
 
-<br />
+<br /> 
+
+> 🚀 `PROMO`: **[Junior Developers Starter KIT](https://www.creative-tim.com/product/buy/bundle/junior-bundle?AFFILIATE=128200)** `85%OFF`
+
+The package includes a `rock-solid collection of premium assets` (**Kits & Dashboards**) that can be used to build eye-catching portfolios and web apps in no time.
+
+[![Junior Developers Starter KIT](https://user-images.githubusercontent.com/51854817/195055646-e55200cd-0ddd-4bdd-aded-0d4e4479789b.png)](https://www.creative-tim.com/product/buy/bundle/junior-bundle?AFFILIATE=128200)
+
+<br /> 
 
 ## **What is NextJS**
 
@@ -17,19 +25,6 @@ For more information feel free to access the official website:
 
 - [NextJS](https://nextjs.org/) - official website
 - [NextJS Documentation](https://nextjs.org/docs/getting-started)
-
-<br />
-
-## ✨ [NextJS Template - Material Kit](https://github.com/app-generator/nextjs-material-kit)
-
-NextJS Material Kit is a Free Material Design Kit made for NextJS, React and Material-UI. NextJS Material Kit is built with over 100 individual frontend elements, giving you the freedom of choosing and combining. 
-
-> **Features**: `TypeScript`, `Up-to-date` modules, `Deploy` buttons for `Netlify` and `Vercel`
-
-- 👉 [NextJS Material Kit](https://nextjs-material-kit.appseed-srv1.com/) - `LIVE demo`
-- 👉 [NextJS Material Kit](https://github.com/app-generator/nextjs-material-kit) - `source code`
-
-![Next.js Template - Material Kit React (Free Product).](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u04lxrx85wbr9y2xk9kv.png)
 
 <br />
 
@@ -73,6 +68,19 @@ Fully Coded Components Notus NextJS is built with over frontend 100 individual c
 <br />
 
 ![Next.js Template - Notus, crafted with Tailwind CSS (Free Product).](https://raw.githubusercontent.com/admin-dashboards/react-dashboards/master/media/notus-react-tailwind-intro.gif)
+
+<br />
+
+## ✨ [NextJS Template - Material Kit](https://bit.ly/37l2piJ)
+
+NextJS Material Kit is a Free Material Design Kit made for NextJS, React and Material-UI. NextJS Material Kit is built with over 100 individual frontend elements, giving you the freedom of choosing and combining. 
+
+> **Features**: `TypeScript`, `Up-to-date` modules, `Deploy` buttons for `Netlify` and `Vercel`
+
+- 👉 [NextJS Material Kit](https://bit.ly/37l2piJ) - `LIVE demo`
+- 👉 [NextJS Material Kit](https://github.com/app-generator/nextjs-material-kit) - `source code`
+
+![Next.js Template - Material Kit React (Free Product).](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u04lxrx85wbr9y2xk9kv.png)
 
 <br />
 
