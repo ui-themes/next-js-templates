@@ -12,22 +12,6 @@ The package includes a `rock-solid collection of premium assets` (**Kits & Dashb
 
 <br /> 
 
-## **What is NextJS**
-
-NextJS comes with an impressive set of features, almost ZERO configuration.  A few reasons to use NextJS ar at least play a bit with this framework:
-
-- Built on top of React. If you are a React developer, the learning curve might be shorter
-- Internationalization - A feature heavily used in eCommerce products (not only)
-- SSG, SSR supported by default. No tweaks or hacking required.
-- Other goodies: Code-splitting, File-system routing, fast refresh
-
-For more information feel free to access the official website:
-
-- [NextJS](https://nextjs.org/) - official website
-- [NextJS Documentation](https://nextjs.org/docs/getting-started)
-
-<br />
-
 ## ✨ [NextJS Material Dashboard](http://bit.ly/2Ko0Mb8)
 
 NextJS Material Dashboard is a free Material-UI, NextJS and React Admin with a fresh, new design inspired by Google's Material Design. We are very excited to introduce our take on the material concepts through an easy to use and beautiful set of components. NextJS Material Dashboard was built over the popular Material-UI, NextJS and React frameworks.
@@ -96,6 +80,22 @@ NextJS Argon Dashboard is built with over 100 individual components, giving you 
 <br />
 
 ![Next.js Template - NextJS Material Dashboard (Free Product).](https://raw.githubusercontent.com/ui-themes/next-js-templates/main/media/next-js-template-argon-dashboard.png)
+
+<br />
+
+## **What is NextJS**
+
+NextJS comes with an impressive set of features, almost ZERO configuration.  A few reasons to use NextJS ar at least play a bit with this framework:
+
+- Built on top of React. If you are a React developer, the learning curve might be shorter
+- Internationalization - A feature heavily used in eCommerce products (not only)
+- SSG, SSR supported by default. No tweaks or hacking required.
+- Other goodies: Code-splitting, File-system routing, fast refresh
+
+For more information feel free to access the official website:
+
+- [NextJS](https://nextjs.org/) - official website
+- [NextJS Documentation](https://nextjs.org/docs/getting-started)
 
 <br />
 
