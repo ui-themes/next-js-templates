@@ -1,4 +1,4 @@
-# Next.js Templates
+# [Next.js Templates](https://blog.appseed.us/next-js-templates-curated-list/)
 
 This README presents a curated list with [Next.js Templates](https://blog.appseed.us/next-js-templates-curated-list/), the popular React Framework used to build blazing fast web apps and static sites. For newcomers, Next.js is a complete full-stack framework built on top of React.js useful to build static sites, APIs, and even full-stack applications.   A curated list with **NextJS Templates** - a popular framework built on top of React. 
 
