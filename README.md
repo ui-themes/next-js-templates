@@ -2,7 +2,15 @@
 
 This README presents a curated list with [Next.js Templates](https://blog.appseed.us/next-js-templates-curated-list/), the popular React Framework used to build blazing fast web apps and static sites. For newcomers, Next.js is a complete full-stack framework built on top of React.js useful to build static sites, APIs, and even full-stack applications.   A curated list with **NextJS Templates** - a popular framework built on top of React. 
 
-<br /> 
+<br />
+
+## 🎁 [Black Friday WrapPixel](https://www.wrappixel.com/?ref=157) - `95%OFF`
+
+> The campaign is active until `30.NOV` - [read more](https://www.wrappixel.com/?ref=157).
+
+[![WrapPixel - Black Friday 2022 Campaign, 95% OFF Discount (all products).](https://user-images.githubusercontent.com/51854817/203017861-9ec37262-4402-41b0-b392-456f6df8a599.jpg)](https://www.wrappixel.com/?ref=157)
+
+<br />
 
 ## ✨ [NextJS Argon Dashboard](https://bit.ly/3mkzRKu)
 
