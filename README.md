@@ -4,11 +4,18 @@ This README presents a curated list with [Next.js Templates](https://blog.appsee
 
 <br />
 
-## 🎁 [Black Friday WrapPixel](https://www.wrappixel.com/?ref=157) - `95%OFF`
+## ✨ [Notus NextJS](http://bit.ly/2Lyr9vn)
 
-> The campaign is active until `30.NOV` - [read more](https://www.wrappixel.com/?ref=157).
+Start your development with a Free Tailwind CSS and NextJS UI Kit and Admin. Let Notus NextJS amaze you with its cool features and build tools and get your project to a whole new level. 
 
-[![WrapPixel - Black Friday 2022 Campaign, 95% OFF Discount (all products).](https://user-images.githubusercontent.com/51854817/203017861-9ec37262-4402-41b0-b392-456f6df8a599.jpg)](https://www.wrappixel.com/?ref=157)
+Fully Coded Components Notus NextJS is built with over frontend 100 individual components, giving you the freedom to choose and combine. All components can take variations in colors that you can easily modify using Tailwind CSS classes (NOTE: each time you add a new class, a class that does not exist in `assets/styles/tailwind.css`, you will need to compile again tailwind).
+
+- 👉 [Notus NextJS](https://bit.ly/2Lyr9vn) - product page
+- 👉 More **[NextJS Templates](https://bit.ly/3noTq5Q)** - provided by Creative-Tim
+
+<br />
+
+![Next.js Template - Notus, crafted with Tailwind CSS (Free Product).](https://raw.githubusercontent.com/admin-dashboards/react-dashboards/master/media/notus-react-tailwind-intro.gif)
 
 <br />
 
@@ -50,21 +57,6 @@ NextJS Material Dashboard is a free Material-UI, NextJS and React Admin with a f
 <br />
 
 ![Next.js Template - NextJS Material Dashboard (Free Product).](https://raw.githubusercontent.com/ui-themes/next-js-templates/main/media/next-js-template-material-dashboard.png)
-
-<br />
-
-## ✨ [Notus NextJS](http://bit.ly/2Lyr9vn)
-
-Start your development with a Free Tailwind CSS and NextJS UI Kit and Admin. Let Notus NextJS amaze you with its cool features and build tools and get your project to a whole new level. 
-
-Fully Coded Components Notus NextJS is built with over frontend 100 individual components, giving you the freedom to choose and combine. All components can take variations in colors that you can easily modify using Tailwind CSS classes (NOTE: each time you add a new class, a class that does not exist in `assets/styles/tailwind.css`, you will need to compile again tailwind).
-
-- 👉 [Notus NextJS](https://bit.ly/2Lyr9vn) - product page
-- 👉 More **[NextJS Templates](https://bit.ly/3noTq5Q)** - provided by Creative-Tim
-
-<br />
-
-![Next.js Template - Notus, crafted with Tailwind CSS (Free Product).](https://raw.githubusercontent.com/admin-dashboards/react-dashboards/master/media/notus-react-tailwind-intro.gif)
 
 <br />
 
