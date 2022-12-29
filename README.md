@@ -4,18 +4,11 @@ This README presents a curated list with [Next.js Templates](https://blog.appsee
 
 <br />
 
-## ✨ [Notus NextJS](http://bit.ly/2Lyr9vn)
+## 🎁 `PROMO` [Best Deals for Developers](https://www.admin-dashboards.com/best-deals-for-developers/) - Up to `80%OFF`
 
-Start your development with a Free Tailwind CSS and NextJS UI Kit and Admin. Let Notus NextJS amaze you with its cool features and build tools and get your project to a whole new level. 
+Because 2022 is almost over and we all knew that was a super challenging year for all of us (freelancers, entrepreneurs, all-size companies) this article aims to highlight the **best deals for developers** that might help us to start amazing projects in 2023 at the lower cost possible.
 
-Fully Coded Components Notus NextJS is built with over frontend 100 individual components, giving you the freedom to choose and combine. All components can take variations in colors that you can easily modify using Tailwind CSS classes (NOTE: each time you add a new class, a class that does not exist in `assets/styles/tailwind.css`, you will need to compile again tailwind).
-
-- 👉 [Notus NextJS](https://bit.ly/2Lyr9vn) - product page
-- 👉 More **[NextJS Templates](https://bit.ly/3noTq5Q)** - provided by Creative-Tim
-
-<br />
-
-![Next.js Template - Notus, crafted with Tailwind CSS (Free Product).](https://raw.githubusercontent.com/admin-dashboards/react-dashboards/master/media/notus-react-tailwind-intro.gif)
+[![Best Deals For Programmers and Freelancers - Provided by AppSeed, CodedThemes, Creatuve-Tim, WrapPixel and BootstrapDash.](https://user-images.githubusercontent.com/51070104/209994947-ed4b33dd-f269-4043-8432-2c01a53e0f6b.jpg)](https://www.admin-dashboards.com/best-deals-for-developers/)
 
 <br />
 
@@ -29,6 +22,21 @@ Flexy Free Nextjs version is built with Most Popular Framework React Material-UI
 The free product comes with an elegant grid design that helps you play around with the look and feel of the web app the way you want. it's a carefully hand-crafted minimal admin template, It's built with modular and modern design.
 
 ![Flexy Nextjs (Free Template) - Charts Page.](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i6n0o2xfcdt8fw3chx53.png)
+
+<br />
+
+## ✨ [Notus NextJS](http://bit.ly/2Lyr9vn)
+
+Start your development with a Free Tailwind CSS and NextJS UI Kit and Admin. Let Notus NextJS amaze you with its cool features and build tools and get your project to a whole new level. 
+
+Fully Coded Components Notus NextJS is built with over frontend 100 individual components, giving you the freedom to choose and combine. All components can take variations in colors that you can easily modify using Tailwind CSS classes (NOTE: each time you add a new class, a class that does not exist in `assets/styles/tailwind.css`, you will need to compile again tailwind).
+
+- 👉 [Notus NextJS](https://bit.ly/2Lyr9vn) - product page
+- 👉 More **[NextJS Templates](https://bit.ly/3noTq5Q)** - provided by Creative-Tim
+
+<br />
+
+![Next.js Template - Notus, crafted with Tailwind CSS (Free Product).](https://raw.githubusercontent.com/admin-dashboards/react-dashboards/master/media/notus-react-tailwind-intro.gif)
 
 <br />
 
