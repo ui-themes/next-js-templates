@@ -4,11 +4,11 @@ This README presents a curated list with [Next.js Templates](https://blog.appsee
 
 <br />
 
-## 🎁 `PROMO` [Best Deals for Developers](https://www.admin-dashboards.com/best-deals-for-developers/) - Up to `80%OFF`
+## 🎁 `PROMO` [MentorCruise](https://mentorcruise.com/?ref=appseed) - `Boost your Knowledge`
 
-Because 2022 is almost over and we all knew that was a super challenging year for all of us (freelancers, entrepreneurs, all-size companies) this article aims to highlight the **best deals for developers** that might help us to start amazing projects in 2023 at the lower cost possible.
+> Master your craft with leading mentors at your side. Grow with every online mentoring session and take the next step in your career. 
 
-[![Best Deals For Programmers and Freelancers - Provided by AppSeed, CodedThemes, Creatuve-Tim, WrapPixel and BootstrapDash.](https://user-images.githubusercontent.com/51070104/209994947-ed4b33dd-f269-4043-8432-2c01a53e0f6b.jpg)](https://www.admin-dashboards.com/best-deals-for-developers/)
+[![MentorCruise - Master your craft with leading mentors at your side.](https://user-images.githubusercontent.com/51854817/210748975-82c4ab30-0c0f-439e-be97-fedfdf8074fe.gif)](https://mentorcruise.com/?ref=appseed)
 
 <br />
 
