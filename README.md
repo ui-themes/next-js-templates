@@ -4,14 +4,6 @@ This README presents a curated list with [Next.js Templates](https://blog.appsee
 
 <br />
 
-## 🎁 `PROMO` [MentorCruise](https://mentorcruise.com/?ref=appseed) - `Boost your Knowledge`
-
-> Master your craft with leading mentors at your side. Grow with every online mentoring session and take the next step in your career. 
-
-[![MentorCruise - Master your craft with leading mentors at your side.](https://user-images.githubusercontent.com/51854817/210748975-82c4ab30-0c0f-439e-be97-fedfdf8074fe.gif)](https://mentorcruise.com/?ref=appseed)
-
-<br />
-
 ## ✨ [Flexy Free NextJS](https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/?ref=157)
 
 Flexy Free Nextjs version is built with Most Popular Framework React Material-UI. 
