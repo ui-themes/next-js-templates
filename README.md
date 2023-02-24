@@ -4,18 +4,14 @@ This README presents a curated list with [Next.js Templates](https://blog.appsee
 
 <br />
 
-## ✨ [NextJS Argon Dashboard](https://bit.ly/3mkzRKu)
+## 🚀 `PROMO` [Spring Boost Campaign](https://appseed.us/discounts/) `50%OFF`
 
-NextJS Argon Dashboard is built with over 100 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files.
+> The **discount is applicable to all products and licenses** (no stock limits) until `15.MAR`
 
-<br />
-
-- 👉 [NextJS Argon Dashboard](https://bit.ly/3mkzRKu) - product page
-- 👉 **[NextJS Argon Dashboard PRO](http://bit.ly/2LwP7Hj) - premium version**
-
-![Next.js Template - NextJS Material Dashboard (Free Product).](https://raw.githubusercontent.com/ui-themes/next-js-templates/main/media/next-js-template-argon-dashboard.png)
+[![Spring Boost Campaign](https://user-images.githubusercontent.com/51070104/221118889-171c5afc-4d01-402b-8681-61b37338e26c.png)](https://appseed.us/discounts/)
 
 <br />
+
 
 ## ✨ [Flexy Free NextJS](https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/?ref=157)
 
@@ -27,6 +23,19 @@ Flexy Free Nextjs version is built with Most Popular Framework React Material-UI
 The free product comes with an elegant grid design that helps you play around with the look and feel of the web app the way you want. it's a carefully hand-crafted minimal admin template, It's built with modular and modern design.
 
 ![Flexy Nextjs (Free Template) - Charts Page.](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i6n0o2xfcdt8fw3chx53.png)
+
+<br />
+
+## ✨ [NextJS Argon Dashboard](https://bit.ly/3mkzRKu)
+
+NextJS Argon Dashboard is built with over 100 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files.
+
+<br />
+
+- 👉 [NextJS Argon Dashboard](https://bit.ly/3mkzRKu) - product page
+- 👉 **[NextJS Argon Dashboard PRO](http://bit.ly/2LwP7Hj) - premium version**
+
+![Next.js Template - NextJS Material Dashboard (Free Product).](https://raw.githubusercontent.com/ui-themes/next-js-templates/main/media/next-js-template-argon-dashboard.png)
 
 <br />
 
