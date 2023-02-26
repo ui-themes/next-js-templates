@@ -4,15 +4,6 @@ This README presents a curated list with [Next.js Templates](https://blog.appsee
 
 <br />
 
-## 🚀 `PROMO` [Spring Boost Campaign](https://appseed.us/discounts/) `50%OFF`
-
-> The **discount is applicable to all products and licenses** (no stock limits) until `15.MAR`
-
-[![Spring Boost Campaign](https://user-images.githubusercontent.com/51070104/221118889-171c5afc-4d01-402b-8681-61b37338e26c.png)](https://appseed.us/discounts/)
-
-<br />
-
-
 ## ✨ [Flexy Free NextJS](https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/?ref=157)
 
 Flexy Free Nextjs version is built with Most Popular Framework React Material-UI. 
