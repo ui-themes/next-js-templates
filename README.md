@@ -1,14 +1,12 @@
-# [Next.js Templates](https://blog.appseed.us/next-js-templates-curated-list/)
+# [Next.js Templates](https://github.com/ui-themes/next-js-templates)
 
-This README presents a curated list with [Next.js Templates](https://blog.appseed.us/next-js-templates-curated-list/), the popular React Framework used to build blazing fast web apps and static sites. For newcomers, Next.js is a complete full-stack framework built on top of React.js useful to build static sites, APIs, and even full-stack applications.   A curated list with **NextJS Templates** - a popular framework built on top of React. 
+This README presents a curated list with [Next.js Templates](https://github.com/ui-themes/next-js-templates), the popular React Framework used to build blazing fast web apps and static sites. For newcomers, **Next.js** is a complete full-stack framework built on top of React.js useful to build static sites, APIs, and even full-stack applications.   A curated list with **NextJS Templates** - a popular framework built on top of React. 
 
 <br />
 
 ## ✨ [NextJS Material Dashboard](http://bit.ly/2Ko0Mb8)
 
 NextJS Material Dashboard is a free Material-UI, NextJS and React Admin with a fresh, new design inspired by Google's Material Design. We are very excited to introduce our take on the material concepts through an easy to use and beautiful set of components. NextJS Material Dashboard was built over the popular Material-UI, NextJS and React frameworks.
-
-<br />
 
 - 👉 [NextJS Material Dashboard](http://bit.ly/2Ko0Mb8) - product page
 - 👉 **[NextJS Material Dashboard PRO](http://bit.ly/2INGVl0) - premium version**
@@ -33,8 +31,6 @@ The free product comes with an elegant grid design that helps you play around wi
 ## ✨ [NextJS Argon Dashboard](https://bit.ly/3mkzRKu)
 
 NextJS Argon Dashboard is built with over 100 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files.
-
-<br />
 
 - 👉 [NextJS Argon Dashboard](https://bit.ly/3mkzRKu) - product page
 - 👉 **[NextJS Argon Dashboard PRO](http://bit.ly/2LwP7Hj) - premium version**
@@ -99,4 +95,4 @@ For more information feel free to access the official website:
 <br />
 
 ---
-[Next.js Templates](https://blog.appseed.us/next-js-templates-curated-list/) - content provided by [AppSeed](https://appseed.us/)
+[Next.js Templates](https://github.com/ui-themes/next-js-templates) - content provided by [AppSeed](https://appseed.us/)
