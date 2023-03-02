@@ -4,6 +4,19 @@ This README presents a curated list with [Next.js Templates](https://blog.appsee
 
 <br />
 
+## ✨ [NextJS Material Dashboard](http://bit.ly/2Ko0Mb8)
+
+NextJS Material Dashboard is a free Material-UI, NextJS and React Admin with a fresh, new design inspired by Google's Material Design. We are very excited to introduce our take on the material concepts through an easy to use and beautiful set of components. NextJS Material Dashboard was built over the popular Material-UI, NextJS and React frameworks.
+
+<br />
+
+- 👉 [NextJS Material Dashboard](http://bit.ly/2Ko0Mb8) - product page
+- 👉 **[NextJS Material Dashboard PRO](http://bit.ly/2INGVl0) - premium version**
+
+![Next.js Template - NextJS Material Dashboard (Free Product).](https://raw.githubusercontent.com/ui-themes/next-js-templates/main/media/next-js-template-material-dashboard.png)
+
+<br />
+
 ## ✨ [Flexy Free NextJS](https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/?ref=157)
 
 Flexy Free Nextjs version is built with Most Popular Framework React Material-UI. 
@@ -44,21 +57,6 @@ Fully Coded Components Notus NextJS is built with over frontend 100 individual c
 ![Next.js Template - Notus, crafted with Tailwind CSS (Free Product).](https://raw.githubusercontent.com/admin-dashboards/react-dashboards/master/media/notus-react-tailwind-intro.gif)
 
 <br /> 
-
-## ✨ [NextJS Material Dashboard](http://bit.ly/2Ko0Mb8)
-
-NextJS Material Dashboard is a free Material-UI, NextJS and React Admin with a fresh, new design inspired by Google's Material Design. We are very excited to introduce our take on the material concepts through an easy to use and beautiful set of components. NextJS Material Dashboard was built over the popular Material-UI, NextJS and React frameworks.
-
-<br />
-
-- 👉 [NextJS Material Dashboard](http://bit.ly/2Ko0Mb8) - product page
-- 👉 **[NextJS Material Dashboard PRO](http://bit.ly/2INGVl0) - premium version**
-
-<br />
-
-![Next.js Template - NextJS Material Dashboard (Free Product).](https://raw.githubusercontent.com/ui-themes/next-js-templates/main/media/next-js-template-material-dashboard.png)
-
-<br />
 
 ## ✨ [NextJS Template - Horizon](https://horizon-ui.com/horizon-ui-chakra-nextjs)
 
